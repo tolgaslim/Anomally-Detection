@@ -2,7 +2,8 @@
 https://www.programiz.com/java-programming/examples/standard-deviation
 https://stackoverflow.com/questions/4191687/how-to-calculate-mean-median-mode-and-range-from-a-set-of-numbers
 */
-
+/*
+sddlfjgdsndlgbskjldbsfkbkjdfhlsjafdksafþak*/
 
 
 import java.util.ArrayList;
